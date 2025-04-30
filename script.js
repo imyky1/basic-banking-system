@@ -1,3 +1,4 @@
+// testing ai agent
 let myAccountBalance = parseInt(document.getElementById("myAccountBalance").innerText);
 
 function sendMoney(){
